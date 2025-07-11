@@ -1,0 +1,31 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 50px;
+}
+.container {
+    background: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    max-width: 500px;
+    margin: auto;
+}
+.buttons a {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+}
+.whatsapp {
+    background-color: #25D366;
+    color: white;
+}
+.facebook {
+    background-color: #1877f2;
+    color: white;
+}
